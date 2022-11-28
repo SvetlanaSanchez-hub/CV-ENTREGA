@@ -1,0 +1,34 @@
+div{
+	background: #D2B4DE;
+}
+p{
+	font-size: 30px;
+} 
+
+h1{
+	font-size: 20px;
+}
+.seccionTablas{
+	background: green;
+}
+
+#miTabla{
+	background: #85C1E9;
+	width: 500px;
+	position: static;
+	top: 200px;
+	right: ;
+	bottom: ;
+	left: 150px ;
+
+}
+img{
+	display: block;
+	margin: auto;
+	width: 30%; 
+	max-width: 30%;
+} /*Centramos la imagen*/
+
+/* margin: opx 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+fixed, static, relative, absolute*/
